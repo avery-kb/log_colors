@@ -17,7 +17,6 @@ setup(
     url="https://github.com/avery-kb/log_colors",
     classifiers=[
         "Programming Language :: Python :: 3",
-        "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
 )
