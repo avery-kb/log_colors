@@ -9,7 +9,6 @@ logger = log_colors()
 # With a custom class name
 logger = log_colors(filename="Custom Name")
 
-
 # Setup to save to a file
 logger = log_colors(log_file="/path/to/file")
 ```
