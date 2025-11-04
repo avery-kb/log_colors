@@ -1,3 +1,4 @@
 log_colors.egg-info
 /log_colors/__pycache__
 /tests/test_log.txt
+/dist
